@@ -28,4 +28,4 @@ My ultimate goal is to transition into the field of Web Security and contribute 
 ![Window](https://img.shields.io/badge/System-Window-blue)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=aemmadi&count_private=true&show_icons=true&include_all_commits=true)
+
